@@ -1,3 +1,4 @@
-# gra_kolko_i_krzyzyk_numpy
+# Tic-Tac-Toe-Game-in-Numpy
 
-W tym repozytorium znajduje się gra kółko i krzyżek w całości napisana w bibliotece Numpy
+This repositorium contains Tic-Tac-Toe Game wrtten only in Numpy library
+
